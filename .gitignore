@@ -1,3 +1,6 @@
 /bin
 /lib
 
+# Generated Gradle cache and build output
+.gradle/
+/교안/3. 스프링/1. 스프링부트 시작/build/
